@@ -5,7 +5,7 @@ ToDoday app "Do today what you could do tomorrow" list all desired tasks and dai
 - mark done
 - mark can not be done
 - NO remove (part of the game) everything you add you have to do today or tomorrow or you lose
-- losing game: state resets but todo list re-instantiates with option then to remove what CAN NOT be done.
+- losing game: state resets but todo list re-instantiates with option then to remove what CAN NOT be done by tomorrow.
 - if not today it moves to tomorrow with priority
 ## objects
 2 classes of todo objects: routines, tasks
